@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fakhriddin13
 - 👀 I’m interested in coding and football
-- 🌱 I’m currently learning ... MEAN stack
+- 🌱 I’m currently learning ... MERN & NESTJS fullstack
 - 📫 How to reach me faxa99deni@gamil.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
